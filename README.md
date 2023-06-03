@@ -8,7 +8,8 @@ Instagram YouTube Tiktok
 
 💻 Technologies that I use
 
-HTML5 CSS3 Bootstrap JavaScript React Node.js Express.js MongoDB PosgreSQL Python Flask Selenium Tkinter API REST bcript OAuth 2.0 jQuery etc.
+![HTML5](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap] JavaScript React Node.js Express.js MongoDB PosgreSQL Python Flask Selenium Tkinter API REST bcript OAuth 2.0 jQuery etc.
 
 #### 🔗 Find me on the following platforms
 
