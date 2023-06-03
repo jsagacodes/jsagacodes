@@ -2,9 +2,7 @@
 
 ✨ About Me?
 
-My name is JSaga and I’m a Full Stack Developer who loves building cool stuff. Here on this page you can find all of the code snippets I share on social media.
-
-Instagram YouTube Tiktok
+I’m a Full Stack Developer who loves building cool stuff. Here on this page you can find all of the code snippets I share on social media.
 
 💻 Technologies I work with:
 
