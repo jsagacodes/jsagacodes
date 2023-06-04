@@ -1,3 +1,4 @@
+### ENG
 ### Hi there 👋
 
 ✨ About Me?
@@ -37,6 +38,16 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jsagacodes) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@jsagacodes_)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jsagacodes)
+
+### RU
+### Привет 👋
+
+✨ Кто я?
+
+Я Full Stack разработчик, который любит создавать крутой вещи. Здесь вы можете найти все исходные коды из моих сниппет видео.
+
+💻 Технологии с которыми я работаю, указаны выше:
+
 
 #### 🔗 Ссылки на страницы на русском языке
 
