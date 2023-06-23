@@ -41,6 +41,28 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 
 _____________________________________________________________________________________________________
 
+ESP
+Hola
+
+✨ ¿Sobre mí?
+
+Soy un desarrollador de pila completa al que le encanta crear cosas geniales. Aquí, en esta página, puede encontrar todos los fragmentos de código que comparto en las redes sociales.
+
+💻 Las tecnologías con las que trabajo se enumeran arriba.
+
+_____________________________________________________________________________________________________
+
+TR
+Merhaba
+
+✨ Hakkımda?
+
+Ben harika şeyleri inşa etmeyi seven bir full stack yazılımcısıyım. Sosyal medyada paylaştığım tüm kod parçacıklarını bu sayfada bulabilirsiniz.
+
+💻 Çalıştığım teknolojiler yukarıda listelenmiştir.
+
+_____________________________________________________________________________________________________
+
 ### RU
 ### Привет 👋
 
@@ -48,7 +70,7 @@ ________________________________________________________________________________
 
 Я Full Stack разработчик, который любит создавать крутые вещи. Здесь вы можете найти все исходные коды из моих сниппет видео.
 
-💻 Технологии с которыми я работаю, указаны выше:
+💻 Технологии с которыми я работаю, указаны выше.
 
 
 #### 🔗 Ссылки на страницы на русском языке
