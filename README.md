@@ -41,8 +41,8 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 
 _____________________________________________________________________________________________________
 
-ESP
-Hola
+### ESP
+### Hola 👋
 
 ✨ ¿Sobre mí?
 
@@ -52,8 +52,8 @@ Soy un desarrollador de pila completa al que le encanta crear cosas geniales. Aq
 
 _____________________________________________________________________________________________________
 
-TR
-Merhaba
+### TR
+### Merhaba 👋
 
 ✨ Hakkımda?
 
