@@ -13,7 +13,7 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Swagger&svgfill=85B8C0">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Oracle&svgfill=F80000">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PostgreSQL&svgfill=316192">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=REST API&svgfill=909EDD">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=REST&svgfill=909EDD">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=OAUTH&svgfill=FF4949">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bcrypt&svgfill=96E782">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ED">
@@ -50,8 +50,8 @@ Additional Tools & Technologies:
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Numpy&svgfill=777BB4">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Scikit Learn&svgfill=F7931E">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Tkinter&svgfill=100000">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js&svgfill=339933">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Express.js&svgfill=000000">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node&svgfill=339933">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Express&svgfill=000000">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB&svgfill=4EA94B">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Mongoose&svgfill=880000">
 </p>
