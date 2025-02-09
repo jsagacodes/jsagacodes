@@ -38,7 +38,7 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 <p align="left">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=8ed5fa">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwind.css&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwind&svgfill=df5c43">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
