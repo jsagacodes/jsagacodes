@@ -8,12 +8,12 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 💻 Technologies I work with:
 <p align="left">  
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Java&svgfill=007396">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SpringBoot&svgfill=6DB33F">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Springboot&svgfill=6DB33F">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Maven&svgfill=C71A36">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Swagger&svgfill=85B8C0">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Oracle&svgfill=F80000">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PostgreSQL&svgfill=316192">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=REST_API&svgfill=909EDD">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=REST API&svgfill=909EDD">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=OAUTH&svgfill=FF4949">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bcrypt&svgfill=96E782">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ED">
