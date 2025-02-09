@@ -63,8 +63,21 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=REST_API&svgfill=909EDD">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bcrypt&svgfill=96E782">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=OAUTH&svgfill=FF4949">
-
-
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Java&svgfill=007396">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Spring&svgfill=6DB33F">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CodeReview&svgfill=0076A3">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Oracle&svgfill=F80000">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ED">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Kubernetes&svgfill=326CE5">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Grafana&svgfill=F6B040">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HashiCorpVault&svgfill=6C3F6E">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ELK&svgfill=E14E1A">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SonarQube&svgfill=4E9B9B">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CI/CD&svgfill=F8C146">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Maven&svgfill=C71A36">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Keycloak&svgfill=000000">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Swagger&svgfill=85B8C0">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Zipkin&svgfill=F1E05A">
 </p>
 
 
