@@ -6,6 +6,7 @@
 I’m a Full Stack Developer who loves building cool stuff. Here on this page you can find all of the code snippets I share on social media.
 
 💻 Technologies I work with:
+<p align="left">  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
@@ -33,8 +34,9 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 ![REST API](https://img.shields.io/badge/REST_API-100000?style=for-the-badge&logo=REST_API&logoColor=FFFFFF&labelColor=909EDD&color=909EDD)  
 ![bcrypt](https://img.shields.io/badge/Bcrypt-100000?style=for-the-badge&logo=BCRYPT&logoColor=FFFFFF&labelColor=96E782&color=96E782)  
 ![OAuth 2.0](https://img.shields.io/badge/OAUTH_2.0-100000?style=for-the-badge&logo=OAUTH&logoColor=FFFFFF&labelColor=FF4949&color=FF4949)
-
+</p>
 ### Additional Tools & Technologies:
+<p align="left">  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 ![CodeReview](https://img.shields.io/badge/CodeReview-0076A3?style=for-the-badge&logo=codereview&logoColor=white)  
@@ -50,7 +52,7 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)  
 ![Swagger](https://img.shields.io/badge/Swagger-85B8C0?style=for-the-badge&logo=swagger&logoColor=white)  
 ![Zipkin](https://img.shields.io/badge/Zipkin-F1E05A?style=for-the-badge&logo=zipkin&logoColor=white)
-
+</p>
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
