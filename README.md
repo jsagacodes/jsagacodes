@@ -38,7 +38,6 @@ Additional Tools & Technologies:
 <p align="left">  
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bootstrap&svgfill=563D7C">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jQuery&svgfill=0769AD">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=API&svgfill=5746FF">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=FFD43B">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Django&svgfill=092E20">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=DjangoREST&svgfill=FF1709">
