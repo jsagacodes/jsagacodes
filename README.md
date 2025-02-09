@@ -8,7 +8,7 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 💻 Technologies I work with:
 <p align="left">  
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Java&svgfill=007396">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Springboot&svgfill=6DB33F">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SpringBoot&svgfill=6DB33F">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Maven&svgfill=C71A36">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Swagger&svgfill=85B8C0">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Oracle&svgfill=F80000">
