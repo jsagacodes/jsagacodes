@@ -36,17 +36,34 @@ I’m a Full Stack Developer who loves building cool stuff. Here on this page yo
 ![OAuth 2.0](https://img.shields.io/badge/OAUTH_2.0-100000?style=for-the-badge&logo=OAUTH&logoColor=FFFFFF&labelColor=FF4949&color=FF4949)
 
 <p align="left">  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML&svgfill=8ed5fa">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bootstrap&svgfill=028dd1">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=8ed5fa">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwind.css&svgfill=df5c43">  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=E34F26">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=1572B6">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bootstrap&svgfill=563D7C">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=TailwindCSS&svgfill=38B2AC">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=FFD43B">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Django&svgfill=092E20">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=DjangoREST&svgfill=FF1709">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SQLite&svgfill=07405E">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PostgreSQL&svgfill=316192">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Flask&svgfill=000000">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Pandas&svgfill=2C2D72">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Plotly&svgfill=239120">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Numpy&svgfill=777BB4">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Scikit Learn&svgfill=F7931E">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Selenium&svgfill=43B02A">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Tkinter&svgfill=100000">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=JavaScript&svgfill=323330">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jQuery&svgfill=0769AD">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=React&svgfill=20232A">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js&svgfill=339933">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Express.js&svgfill=000000">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB&svgfill=4EA94B">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Mongoose&svgfill=880000">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=API&svgfill=5746FF">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=REST_API&svgfill=909EDD">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bcrypt&svgfill=96E782">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=OAUTH&svgfill=FF4949">
+
 
 </p>
 
