@@ -47,7 +47,7 @@ Additional Tools & Technologies:
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Selenium&svgfill=43B02A">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Plotly&svgfill=239120">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Numpy&svgfill=777BB4">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Scikit Learn&svgfill=F7931E">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ScikitLearn&svgfill=F7931E">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Tkinter&svgfill=100000">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node&svgfill=339933">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Express&svgfill=000000">
